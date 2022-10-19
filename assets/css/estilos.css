@@ -67,7 +67,7 @@ body{
         display: block;
         width: 32px;
         height: 32px;
-        background-image: url(../img/profile_2.png);
+        background-image: url(https://avatars.githubusercontent.com/u/85418198?v=4);
         background-size: contain;
         background-repeat: no-repeat;
         background-position: center;
@@ -148,9 +148,10 @@ body{
     display: grid;
     gap: 16px;
 }
-.titulo__pagina{
+.titulo-pagina{
     font-size: 1.5rem;
     font-weight: 700;
+    
 }
 .titulo-secao{
     font-size: 1.2rem;
